@@ -1,6 +1,6 @@
 # Ansible Role: Samba (SMB)
 
-[![CI](https://github.com/shaneholloman-org/ansible-role-samba/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman-org/ansible-role-samba/actions/workflows/ci.yml)
+[![CI](https://github.com/shaneholloman/ansible-role-samba/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-samba/actions/workflows/ci.yml)
 
 Installs Samba client and server for RHEL/CentOS.
 
@@ -29,4 +29,3 @@ MIT / BSD
 ## Author Information
 
 This role was created in 2023
-
