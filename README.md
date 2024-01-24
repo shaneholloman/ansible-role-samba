@@ -1,8 +1,8 @@
-# Ansible Role: Samba (SMB)
+# Ansible Role: `samba`
 
 [![CI](https://github.com/shaneholloman/ansible-role-samba/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-samba/actions/workflows/ci.yml)
 
-Installs Samba client and server for RHEL/CentOS.
+Installs Samba client and server for RHEL/CentOS and Debian Families.
 
 ## Requirements
 
@@ -18,13 +18,15 @@ None.
 
 ## Example Playbook
 
-    - hosts: servers
-      roles:
-        - shaneholloman.samba
+```yml
+- hosts: servers
+  roles:
+    - shaneholloman.samba
+```
 
 ## License
 
-MIT / BSD
+Unlicense
 
 ## Author Information
 
